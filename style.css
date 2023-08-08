@@ -58,7 +58,7 @@ video{
 /* to make the video responsive */
 @media(min-aspect-ratio:16/9){
     video{
-        width: 250%;
+        width: 100%;
         height: auto;
     }
 }
